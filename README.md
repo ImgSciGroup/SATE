@@ -1,1 +1,1 @@
-# SATE
+This repository provides the code for the methods and experiments presented in our paper 'Sample Augmentation with Threshold Estimation for Deep Learning Classification Using Hyperspectral Remote Sensed Image'.
